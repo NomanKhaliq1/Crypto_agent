@@ -3,7 +3,6 @@
   "description": "Streamlit app for live crypto prices, personal portfolio tracking, and quick coin comparisons using CoinGecko data.",
   "techTags": ["Python", "Streamlit", "Pandas", "CoinGecko API"],
   "source": "github",
-  "category": "Python",
   "live_url": "https://cryptoagent-xewd5cjquz2erjwtpvtdwj.streamlit.app/",
   "repo_name": "NomanKhaliq1/Crypto_agent",
   "image": "/projects/crypto-agent.webp",
